@@ -7,6 +7,8 @@
   <maintainer email="omerasaf2961@gmail.com">oasaf_2961</maintainer>
   <license>TODO: License declaration</license>
 
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
   <exec_depend>std_srvs</exec_depend>
